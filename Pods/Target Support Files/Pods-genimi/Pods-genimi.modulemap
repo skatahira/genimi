@@ -1,0 +1,6 @@
+framework module Pods_genimi {
+  umbrella header "Pods-genimi-umbrella.h"
+
+  export *
+  module * { export * }
+}
